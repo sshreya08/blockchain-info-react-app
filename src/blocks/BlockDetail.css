@@ -1,0 +1,7 @@
+.block-details__card {
+	margin: 1rem;
+	padding: 1rem;
+	border: 1px solid grey;
+	height: 300px;
+	border-radius: 10px;
+}
